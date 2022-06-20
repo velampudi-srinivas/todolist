@@ -18,7 +18,7 @@
   {
     "id": 4,
     "title": "Buy eggs",
-    "completed": true
+    "completed": "progress"
   },
   {
     "id": 5,
@@ -33,6 +33,21 @@
     {
     "id": 7,
     "title": "Office work",
+    "completed": "progress"
+  },
+    {
+    "id": 8,
+    "title": "Online courses",
+    "completed": false
+  },
+    {
+    "id": 9,
+    "title": "Pickup groceries",
+    "completed": "progress"
+  },
+    {
+    "id": 10,
+    "title": "Placing order",
     "completed": false
   } 
   ]
