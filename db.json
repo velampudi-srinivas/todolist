@@ -1,6 +1,4 @@
-  {
-    "id": 1,
-    "name": "Beyonce",
-    "phone": "+123 456 789",
-    "email": "b@beyonce.com"
-  }
+{
+  "id": 1,
+  "title": "hello"
+}
