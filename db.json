@@ -1,54 +1,44 @@
 {
   "todolists":[
   {
-    "id": 1,
-    "title": "Hit the gym",
-    "completed": true
+    "name": "Hit the gym",
+    "status":"succeed"
   },
   {
-    "id": 2,
-    "title": "Pay bills",
-    "completed": false
+    "name": "Pay bills",
+    "status": "started"
   },
   {
-    "id": 3,
-    "title": "Meeting",
-    "completed": false
+    "name": "Meeting",
+    "status": "started"
   },
   {
-    "id": 4,
-    "title": "Buy eggs",
-    "completed": "progress"
+    "name": "Buy eggs",
+    "status": "inprogress"
   },
   {
-    "id": 5,
-    "title": "Read a book",
-    "completed": false
+    "name": "Read a book",
+    "status": "started"
   },
     {
-    "id": 6,
-    "title": "Organize clothes",
-    "completed": true
+    "name": "Organize clothes",
+    "status":"succeed"
   },
     {
-    "id": 7,
-    "title": "Office work",
-    "completed": "progress"
+    "name": "Office work",
+    "status": "inprogress"
   },
     {
-    "id": 8,
-    "title": "Online courses",
-    "completed": false
+    "name": "Online courses",
+    "status": "started"
   },
-    {
-    "id": 9,
-    "title": "Pickup groceries",
-    "completed": "progress"
+  {
+    "name": "Pickup groceries",
+    "status": "inprogress"
   },
-    {
-    "id": 10,
-    "title": "Placing order",
-    "completed": false
+  {
+    "name": "Placing order",
+    "status":"succeed"
   } 
   ]
 }
